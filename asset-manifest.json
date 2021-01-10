@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e444062.chunk.css",
-    "main.js": "/static/js/main.c0034150.chunk.js",
-    "main.js.map": "/static/js/main.c0034150.chunk.js.map",
+    "main.css": "/static/css/main.844b84f1.chunk.css",
+    "main.js": "/static/js/main.d815e985.chunk.js",
+    "main.js.map": "/static/js/main.d815e985.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.93d4d3f7.js",
     "runtime-main.js.map": "/static/js/runtime-main.93d4d3f7.js.map",
     "static/css/2.98d788f3.chunk.css": "/static/css/2.98d788f3.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.f0d0d9a4.chunk.js.map": "/static/js/2.f0d0d9a4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.98d788f3.chunk.css.map": "/static/css/2.98d788f3.chunk.css.map",
-    "static/css/main.9e444062.chunk.css.map": "/static/css/main.9e444062.chunk.css.map",
+    "static/css/main.844b84f1.chunk.css.map": "/static/css/main.844b84f1.chunk.css.map",
     "static/js/2.f0d0d9a4.chunk.js.LICENSE.txt": "/static/js/2.f0d0d9a4.chunk.js.LICENSE.txt",
     "static/media/about-backdrop.6a2ecc17.jpg": "/static/media/about-backdrop.6a2ecc17.jpg",
     "static/media/baby-advaith.a2739a89.jpg": "/static/media/baby-advaith.a2739a89.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.93d4d3f7.js",
     "static/css/2.98d788f3.chunk.css",
     "static/js/2.f0d0d9a4.chunk.js",
-    "static/css/main.9e444062.chunk.css",
-    "static/js/main.c0034150.chunk.js"
+    "static/css/main.844b84f1.chunk.css",
+    "static/js/main.d815e985.chunk.js"
   ]
 }
