@@ -1,6 +1,6 @@
 {
-  "homepage": "https://advaithmalka.github.io",
-  "name": "advaithmalka.github.io",
+  "homepage": "https://advaithmalka.com",
+  "name": "advaithmalka.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,6 @@
     "css-litcss": "^1.7.0",
     "highlight.js": "^10.5.0",
     "jquery": "^3.5.1",
-    "node-sass": "^4.14.1",
     "nprogress": "^0.2.0",
     "postcss": "^7.0.35",
     "react": "^16.13.1",
@@ -24,6 +23,7 @@
     "react-router-dom": "^5.2.0",
     "react-router-hash-link": "^2.2.2",
     "react-scripts": "4.0.0",
+    "sass": "^1.58.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   },
   "scripts": {
